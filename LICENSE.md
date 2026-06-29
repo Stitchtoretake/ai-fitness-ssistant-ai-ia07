@@ -1,4 +1,4 @@
-# 
+# Leve AI Fitness Trainer Assistant extensões. Com aprendizado por transferência e redes neurais — otimizado para máximo desempenho.
 
 
 
